@@ -1,0 +1,19 @@
+{
+  "logo": "Whale Watch",
+  "name": "whale-watch",
+  "repo": "logo/whale-watch",
+  "description": "The Whale Watch logo.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "styles": [
+    "index.css"
+  ],
+  "images": [
+    "images/logo.svg",
+    "images/logo-black.svg",
+    "images/logo-white.svg"
+  ],
+  "dependencies": {
+    "logo/logo": "*"
+  }
+}
